@@ -5,7 +5,7 @@ A Maven archetype for generating a basic JavaFX starter project.
 "THIS IS THE CHANGE I HAVE DONE"
 Usage 
 ======
-
+This is the first change
 ```
  mvn archetype:generate -DarchetypeGroupId=com.zenjava -DarchetypeArtifactId=javafx-basic-archetype
 ```
