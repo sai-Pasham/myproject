@@ -13,7 +13,7 @@ This is the first change
 See the JavaFX Maven Plugin for more details on using your generated project:
 
 * https://github.com/javafx-maven-plugin/javafx-maven-plugin
-
+"THIS IS THE SECOND CHANGE"
 
 Licence
 ============
