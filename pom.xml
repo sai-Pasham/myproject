@@ -44,6 +44,14 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+    
+    <servers>
+        <server>
+            <id>nexus</id>
+            <username>admin</username>
+            <password>admin123</password>
+        </server>
+    </servers>
 
     <developers>
         <developer>
